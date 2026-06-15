@@ -50,6 +50,10 @@ A production-ready data warehouse solution combining SQL Server backend with a P
 └── docs/                            # Naming conventions & catalog
 ```
 
+## Dashboard Overview
+
+![Dashboard Home](ScreenShot/dashboard_home.png)
+
 ## 📊 Data Sources
 
 **CRM System**: Customer information, products, sales transactions
